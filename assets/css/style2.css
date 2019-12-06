@@ -1,0 +1,103 @@
+.portfolio {
+    font-family: 'Georgia', 'Times', 'Times New Roman', 'serif';
+    color: #c5b643;
+    margin-top: 10px;
+}
+
+#container {
+    position: relative;
+    margin: 0 auto;
+    width: 700px;
+    margin-top: 20px;
+}
+
+.pic {
+    width: 210px;
+    height: 150px;
+}
+
+.pic2 {
+    float: center;
+    margin-left: 32px;
+    width: 210px;
+    height: 150px;
+}
+
+.pic3 {
+    float: right;
+    width: 210px;
+    height: 150px;
+}
+
+.pic4 {
+    float: left;
+    margin-top: 20px;
+    width: 210px;
+    height: 150px;
+}
+
+.pic5 {
+    float: center;
+    margin-top: 20px;
+    margin-left: 32px;
+    width: 210px;
+    height: 150px;
+}
+
+.pic6 {
+    float: right;
+    margin-top: 20px;
+    width: 210px;
+    height: 150px;
+}
+
+.b1, .b2, .b3, .b4, .b5, .b6 {
+    width: 190px;
+    background-color: #aec74d;
+    text-align: center;
+    font-family: 'Georgia', 'Times', 'Times New Roman', 'serif';
+    color: #fff;
+    padding: 10px;
+}
+
+.b1 {
+    position: absolute;
+    margin-top: -68px;
+    margin-left: 0px;
+}
+
+.b2 {
+    position: absolute;
+    margin-top: -68px;
+    margin-left: 246px;
+}
+
+.b3 {
+    position: absolute;
+    margin-top: -68px;
+    margin-left: 490px;
+}
+
+.b4 {
+    position: absolute;
+    margin-top: 113px;
+    margin-left: 0px;
+}
+
+.b5 {
+    position: absolute;
+    margin-top: -68px;
+    margin-left: 242px;
+}
+
+.b6 {
+    position: absolute;
+    margin-top: -68px;
+    margin-left: 490px;
+}
+
+.footer p {
+    font-size: 11px;
+    margin-top: 21px;
+}
+    
