@@ -56,8 +56,13 @@ h3 {
         margin-bottom: 90px;
     }
     .box2 {
-        margin-left: 175px;
+        width: 100%;
+        margin-left: 177px;
     }
+}
+
+/* This was my problem area for aligning the three ul lists in a horizontal row at this resolution. I tried manipulating codes and applying flexbox to .box2 which is my container and a ul class but nothing worked. */
+
 @media only screen and (max-width: 640px) {
     .about {
         margin: 0 auto;
@@ -71,11 +76,8 @@ h3 {
         margin-left: -25px;
         margin-bottom: 90px;
     }
-    .box2 {
+    .box2{
         margin-left: 155px;
+        font-size: 10px;
     }
 }
-
-
-
-
